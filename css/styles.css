@@ -6,7 +6,15 @@ h1{
   
   }
 
+  button {
+    display: block;
+    max-width: 300px;
+    margin: auto;
+  }
+
+
   body {
     background-image: url("http://optindustries.com/wp-content/uploads/2019/09/comingsoon.jpg");
+    background-color: #000000;
   }
 
