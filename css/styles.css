@@ -18,3 +18,21 @@ h1{
     background-color: #000000;
   }
 
+ 
+
+footer {
+    display: flex;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    justify-content: center;
+    padding: 10px 15px;
+    background-color: gray;
+    color: white;
+}
+
+  
+ 
+  
+  
