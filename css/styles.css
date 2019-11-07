@@ -1,38 +1,29 @@
-h1{
-    color: white;
-  }
-  h2{
-    color: white;
-  
-  }
-
-  button {
-    display: block;
-    max-width: 300px;
-    margin: auto;
-  }
-
-
-  body {
-    background-image: url("http://optindustries.com/wp-content/uploads/2019/09/comingsoon.jpg");
-    background-color: #000000;
-  }
-
- 
-
-footer {
-    display: flex;
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    justify-content: center;
-    padding: 10px 15px;
-    background-color: gray;
-    color: white;
+h1 {
+  color: white;
+}
+h2 {
+  color: white;
 }
 
-  
- 
-  
-  
+button {
+  display: block;
+  max-width: 300px;
+  margin: auto;
+}
+
+body {
+  background-image: url("http://optindustries.com/wp-content/uploads/2019/09/comingsoon.jpg");
+  background-color: #000000;
+}
+
+footer {
+  display: flex;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  justify-content: center;
+  padding: 10px 15px;
+  background-color: gray;
+  color: white;
+}
